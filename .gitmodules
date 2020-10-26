@@ -1,0 +1,3 @@
+[submodule "themes/tern"]
+	path = themes/tern
+	url = https://github.com/azaryr/tern-hugo-theme.git
